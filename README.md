@@ -6,18 +6,18 @@ Welcome to the **Linear Algebra for Data Science** repository! This repository i
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Topics Covered]
-   - [Vectors]
-   - [Matrices]
-   - [Linear Systems of Equations]
-   - [Determinants]
-   - [Matrix Inverse]
-   - [EigenValues and EigenVectors]
-   - [Vector Space]
-   - [Orthogonality and Projections]
-   - [Singular Value Decomposition]
-   - [Norms and Metrics]
-   - [Application in Data Science]
+- Topics Covered
+   - Vectors
+   - Matrices
+   - Linear Systems of Equations
+   - Determinants
+   - Matrix Inverse
+   - EigenValues and EigenVectors
+   - Vector Space
+   - Orthogonality and Projections
+   - Singular Value Decomposition
+   - Norms and Metrics
+   - Application in Data Science
 
 ## Introduction
 Linear algebra provides the framework for understanding and manipulating multidimensional data and relationships using Algebraic operations. It is essential for working with high dimensional data, enabling powerful algorithms in machine learning. 
