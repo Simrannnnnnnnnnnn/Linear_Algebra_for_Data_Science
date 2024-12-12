@@ -1,4 +1,4 @@
-# Linear_Algebra_for_Data_Science
+# Linear Algebra for Data Science
 A repository of Linear Algebra Concept for data science 
 Welcome to the **Linear Algebra for Data Science** repository! This repository is dedicated to helping you learn and master the fundamental concepts of Linear ALgebra. 
 
@@ -19,5 +19,6 @@ Welcome to the **Linear Algebra for Data Science** repository! This repository i
    - [Norms and Metrics](#norms-and-metrics)
    - [Application in Data Science](#Applications-in-Data-Science)
 
-
+## Introduction
+Linear algebra provides the framework for understanding and manipulating multidimensional data and relationships using Algebraic operations. It is essential for working with high dimensional data, enabling powerful algorithms in machine learning. 
   
