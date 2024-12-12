@@ -1,1 +1,8 @@
+# Introduction to Linear Algebra 
+Linear Algebra is a branch of Mathematics that deals with vectors, matrices and linear transformations. It forms the foundation for numerous applications in data science, machine learning, computer graphics, optimization and many more. 
+Understanding its principles is crucial for solving real-world problems involving multidimensional data.
 
+## Topics Covered 
+- Overview and Applications in Data Science
+- Scalars, Vectors, Matrices and Tensors
+- Notation and Basic Operations 
