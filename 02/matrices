@@ -1,1 +1,64 @@
+# Matrix
+**Matrix** is a rectangular array of numbers arranged in rows and columns. 
+## Element - The individual number in a ### matric is called ###Elements.
 
+## Matrix Notation
+The element at the 𝑖th row and 𝑗th column of a matrix A is denoted as aij.
+Example : if A=[1,2,3,4] then a(1,4) having 1 row and 4 columns. so number of elements = 1*4= 4
+
+## Matrix Dimensions
+A matrix is described by its dimensions  m X n, where 
+m = number of rows 
+n = number of columns
+
+## Types of Matrices 
+1. Row Matrix 
+A matrix with only one row 
+B = [1,2,3,4].
+
+2. Column Matrix
+A matrix with only one column.
+c = | 1 |
+    | 2 |
+    | 3 |
+
+3. Square Matrix
+A matrix with an equal number of rows and columns
+D = | 1 2 3 |
+    | 4 5 6 |
+    | 7 8 9 |
+
+4. Diagonal Matrix 
+A sqaure Matrix where all elements are 0 except those on the main diagonal (from top-left to bottom right)
+E = |4 0 0|
+    |0 5 0|
+    |0 0 6|
+
+5. Sparse Matrix 
+A Matrix that are mostly 0 and have few non - zero elements 
+F= |0 0 0|
+   |0 0 2|
+
+6. Identity Matrix 
+A Diagonal Matrix with all the diagonal elements 1
+G = |1 0 0|
+    |0 1 0|
+    |0 0 1|
+
+7. Zero Matrix 
+A Matrix where all the elements are zero it is also known as Null Matrix
+H =|0 0 0|
+   |0 0 0|
+   |0 0 0|
+
+8.Symmetric Matrix 
+A square matrix equal to its Transpose 
+I = |1 2 3|    I(Transpose)= |1 2 3|
+    |2 4 5|                  |2 4 5|     
+    |3 5 6|                  |3 5 6|
+
+9.Skew Symmetric Matrix 
+A sqaure Matrix that is equal to the negative of its transpose 
+J= |0 -2 -3|  J(Transpose) = | 0  2  3|
+   |2  0 -5|                 |-2  0  5|
+   |3  5  0|                 |-3 -5  0|
