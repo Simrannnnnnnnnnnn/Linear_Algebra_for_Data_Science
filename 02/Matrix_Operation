@@ -1,0 +1,30 @@
+# Matrix Opeartions
+We can perform various # matrix operations on a Matrix:
+1. Addition 
+Addition is performed if they have same dimensions
+example: 
+A=|1 2| + B = |5 6|  = C = |1 + 5    2 + 6| = |6   7|
+  |3 4|       |7 8|        |3 + 7    4 + 8|   |10 12|
+
+2. Scalar Multiplication
+Each elements of a matrix is multiplied with scalar 
+example:
+C = 2 and A = |1 2| the result of C * A will be = 2 * |1 2| = |2*1  2*2|
+              |3 4|                                   |3 4|   |2*3  2*4|
+C*A =|2 4|
+     |6 8|
+
+3. Matrix Multiplicaton
+Matrix multiplication can be performed if number of columns in 1st matrix is equal to number of rows in 2nd Matrix
+example :
+A = |1 2|  B= |5 6| so, A * B = |(1*5+2*7)  (1*6+2*8)| = A * B = |(5+14 ) (6+16 )| = A * B = |19 22|
+    |3 4|     |7 8|             |(3*5+4*7)  (3*6+4*8)|           |(15+28) (18+32)|           |43 50|
+A*B = |19 22|
+      |43 50|
+
+4. Transpose Matrix 
+Transpose refers to the process of swapping the rows into Columns 
+Example: 
+A = |1 2 3|    A<sup>T</sup> = |1 4|
+    |4 5 6|                    |2 5|
+                               |3 6|
