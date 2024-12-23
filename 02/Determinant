@@ -1,1 +1,27 @@
+# Determinant 
+Determinant are the Scalar values that can be computed from the elements of square matrix.
+They describe how much a Sampled Area in the Vector Space Changes in scale with Linear Transformations.
+This tells whether the transformations are linearly dependent or not.
 
+# Linear Transformations
+Linear Transformations are the ways of changing the vector by ## Stretching, ## Squeezing, ## rotating, or ## flipping but always in a straight line.
+It must not be bend from any point
+we represent a vector as
+^   ^
+i , j Read it as i(cap), j(cap)
+
+3 units right(x direction) and 2 units up(y direction) 
+vector v = 3i(cap) + 2j(cap) 
+
+Example of ### Determinants = 
+
+c = |1 2 3|
+    |3 2 1|
+    |1 3 2|
+determinant of C is = 
+[1((2*2)-(3*1))] - [2((3*2)-(1*1))] + [(3(3*3)-(2*1))]
+[1(4-3)] - [2(6-1)]+ [3(9-2)]
+[1*1]-[2*5]+[3*7]
+[1]-[10]+[21]
+12
+determinant of C or |C|= 12
