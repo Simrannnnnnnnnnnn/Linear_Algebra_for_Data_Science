@@ -1,0 +1,51 @@
+# What is a Vector?
+A # Vector is a mathematical object that has both magnitude(size) and direction
+they represent a variety of entities such as a point in a multidimensional spae 
+
+# Mathematical Representation 
+- Vector in 2D Space 
+v=[v1
+   v2]  where, v1 and v2 are its components.
+- Vector in 3D space 
+v=[v1
+   v2
+   v3] where v1,v2 and v3 are its components.
+
+# Opeartions on Vectors
+vectors named u and v having components u1,u2 and v1,v2 respectively.
+
+## 1. Addition
+
+Addition of vector u and v is 
+
+u + v = [u1   [v1    [u1 + v1
+         u2] + v2] =  u2 + v2]
+
+## 2. Subtraction
+
+Subtraction of vector u and v is 
+u - v = [u1   [v1    [u1 - v1
+         u2] - v2] =  u2 - v2]
+
+## 3. Scalar Multiplication
+
+Scalar (single numerical value that represents magnitude but has no direction) 
+The scalar multiplication of scalar(c) and vector[v1 , v2] is 
+c . v = c. [v1    [ c . v1
+            v2] =   c . v2]   scalar multiplication is used to measure similarity between vectors (cosine similarity)
+
+# 4. Dot Product or Scalar product
+
+The dot product of two vectors is
+u . v = u1v1 + u2v2  this is used to measure similarity between vectors 
+
+# 5. Norm (Magnitude) 
+
+The length(Magnitude) of a vector v is 
+
+||v|| = √v1^2 + v2^2
+
+# 6. Cross Product (3D vectors)
+        | i  j  k |
+u x v = | u1 u2 u3|
+        | v1 v2 v3| this produces a vector Orthogonal to u and v.
